@@ -2,8 +2,9 @@
  Pyg Game created with Javascript
 
 GAME LINK;
-genesismandela.github.io/pyg-game/
+ 
+ https://genesismandela.github.io/Pyg-Game/
 
 TECH SPECIFICATIONS;
 
-genesismandela.github.io/pyg-tech/
+ https://genesismandela.github.io/tech__pyg-game/
